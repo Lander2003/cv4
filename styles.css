@@ -240,4 +240,23 @@ transition: color .1s ease-out;
   #showcase{
     height: 700px;
   }
+
+  .newsletter-content h1{
+    text-align: center;
+    margin-bottom: 20px;
+    display: block;
+  }
+
+  .newsletter-content form{
+    float: none;
+    text-align: center;
+  }
+
+  .newsletter-content input{
+    display: block;
+  }
+
+  .newsletter-content button{
+
+  }
 }
